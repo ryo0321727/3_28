@@ -1,0 +1,2 @@
+msg =  "hello"
+put msg
